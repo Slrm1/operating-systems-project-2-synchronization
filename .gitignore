@@ -1,0 +1,4 @@
+*.o
+*.out
+part-1-semaphores/shm_proc
+part-2-monitors/main
